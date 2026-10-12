@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &741300429832735195
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1402209468779390992}
+  m_Layer: 0
+  m_Name: Kendang
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1402209468779390992
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 741300429832735195}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4276370266780837419}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &4382566919769604544
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1402209468779390992}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 723adf40a6ef39245a9d655c7f8f0f93, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.9994958
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 723adf40a6ef39245a9d655c7f8f0f93, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.9994958
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 723adf40a6ef39245a9d655c7f8f0f93, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.9994958
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 723adf40a6ef39245a9d655c7f8f0f93, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 723adf40a6ef39245a9d655c7f8f0f93, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.000000029802322
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 723adf40a6ef39245a9d655c7f8f0f93, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.000000029802322
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 723adf40a6ef39245a9d655c7f8f0f93, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 723adf40a6ef39245a9d655c7f8f0f93, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 723adf40a6ef39245a9d655c7f8f0f93, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 723adf40a6ef39245a9d655c7f8f0f93, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 723adf40a6ef39245a9d655c7f8f0f93, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 723adf40a6ef39245a9d655c7f8f0f93, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 723adf40a6ef39245a9d655c7f8f0f93, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6610982791019128871, guid: 723adf40a6ef39245a9d655c7f8f0f93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b3c791538088c524081aab248b777427, type: 2}
+    - target: {fileID: 919132149155446097, guid: 723adf40a6ef39245a9d655c7f8f0f93, type: 3}
+      propertyPath: m_Name
+      value: Kendang
+      objectReference: {fileID: 0}
+    - target: {fileID: 4645363831065919909, guid: 723adf40a6ef39245a9d655c7f8f0f93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b3c791538088c524081aab248b777427, type: 2}
+    - target: {fileID: 7022404304150118815, guid: 723adf40a6ef39245a9d655c7f8f0f93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b3c791538088c524081aab248b777427, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: -7811995466396301646, guid: 723adf40a6ef39245a9d655c7f8f0f93, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4628600033526486817}
+    - targetCorrespondingSourceObject: {fileID: -7811995466396301646, guid: 723adf40a6ef39245a9d655c7f8f0f93, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2866357680945593338}
+    - targetCorrespondingSourceObject: {fileID: 6613625173202070397, guid: 723adf40a6ef39245a9d655c7f8f0f93, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 9114847277692839397}
+    - targetCorrespondingSourceObject: {fileID: 6613625173202070397, guid: 723adf40a6ef39245a9d655c7f8f0f93, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 616021344508834557}
+  m_SourcePrefab: {fileID: 100100000, guid: 723adf40a6ef39245a9d655c7f8f0f93, type: 3}
+--- !u!1 &3405907586636203890 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -7811995466396301646, guid: 723adf40a6ef39245a9d655c7f8f0f93, type: 3}
+  m_PrefabInstance: {fileID: 4382566919769604544}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &4628600033526486817
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3405907586636203890}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.030015133, y: 0.30613193, z: 0.25569698}
+  m_Center: {x: -0.2964958, y: 0.0009238869, z: 0.34556448}
+--- !u!114 &2866357680945593338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3405907586636203890}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c021c8b5059ce3641bb3600c2ebdbe64, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  indexNada: 0
+  namaNada: Gedug (bass)
+  audioClipNada: {fileID: 8300000, guid: b432b8a0ebf3a6249bef88ebabe2e32a, type: 3}
+--- !u!4 &4276370266780837419 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 723adf40a6ef39245a9d655c7f8f0f93, type: 3}
+  m_PrefabInstance: {fileID: 4382566919769604544}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &7429338948267453117 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6613625173202070397, guid: 723adf40a6ef39245a9d655c7f8f0f93, type: 3}
+  m_PrefabInstance: {fileID: 4382566919769604544}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &9114847277692839397
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7429338948267453117}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.030015133, y: 0.30644494, z: 0.2522034}
+  m_Center: {x: 0.2961926, y: -0.00066161156, z: 0.34703448}
+--- !u!114 &616021344508834557
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7429338948267453117}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c021c8b5059ce3641bb3600c2ebdbe64, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  indexNada: 1
+  namaNada: Kempyang (tinggi)
+  audioClipNada: {fileID: 8300000, guid: a74103dbc6544e74fbb56d7ed5d1e81a, type: 3}
