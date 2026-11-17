@@ -30,3 +30,5 @@ The first AR session needs camera permission and a detected flat surface.
 ## Repository contents
 
 This repository contains the Unity project assets, packages, project settings, and source assets. Unity-generated folders and local build output are excluded through `.gitignore`.
+
+.
